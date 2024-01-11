@@ -3,7 +3,7 @@ from crud import *
 my_db = conn.connect(
     host = 'localhost',
     user = 'root',
-    password = 'jesus4life'
+    password = 'Mockingbird11@'
 )
 
 # print(my_db)
